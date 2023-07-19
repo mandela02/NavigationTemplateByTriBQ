@@ -1,2 +1,3 @@
 # NavigationTemplateByTriBQ
-SwiftUI Navigation template for iOS 16
+
+A description of this package.
