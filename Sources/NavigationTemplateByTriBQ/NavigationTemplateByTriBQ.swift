@@ -29,12 +29,12 @@ open class Navigator<
     /// Full screen present view
     ///
     ///  Element in this array will be present  as full screen cover
-    public var fullScreenPresentables: [PresentableTemplate] { [] }
+    open var fullScreenPresentables: [PresentableTemplate] { [] }
 
     /// Modal present view
     ///
     ///  Element in this array will be present  as modal
-    public var modalPresentables: [PresentableTemplate] { [] }
+    open var modalPresentables: [PresentableTemplate] { [] }
 
     /// Push to new view
     ///
